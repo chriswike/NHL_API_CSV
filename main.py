@@ -89,7 +89,7 @@ def fetch_season():
     season_year = input("Enter The Year\n")
     base_game_id = f"{season_year}02"
     
-    total_games = 1312
+    total_games = 1313
     successful_games = 0
     failed_games = 0
     
