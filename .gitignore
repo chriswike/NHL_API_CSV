@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/venv/*
 
 # Spyder project settings
 .spyderproject
@@ -242,6 +243,7 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+/.vscode/*
 
 # Local History for Visual Studio Code
 .history/
